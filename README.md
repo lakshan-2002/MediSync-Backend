@@ -1,1 +1,1 @@
-# SmartCare-Backend
+# MediSync-Backend
